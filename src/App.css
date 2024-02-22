@@ -1,0 +1,17 @@
+.container {
+  margin: 0 auto;
+  max-width: 400px;
+  padding: 20px;
+  text-align: center;
+  background-color: tomato;
+  border-radius: 16px;
+}
+
+input, button {
+  margin-bottom: 10px;
+}
+
+.resultado {
+  font-size: 18px;
+  color: whitesmoke;
+}
